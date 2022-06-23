@@ -1,2 +1,2 @@
 # windows64bit-shellcode
-here you can find shellcode for 64bit windows 
+here you can find shellcode written in x64 assembly
