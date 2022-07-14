@@ -1,6 +1,8 @@
 ;-------------------------------------------------------------------------------------------------------
-;  for win64 written in nasm
-;here i uses the method of boku7 addrdpadmin
+;  author: never
+;  for win64 shellcode written in nasm(assembly)
+;  it spwan calc, can be use for testing
+
 ;-------------------------------------------------------------------------------------------------------
 
 BITS 64
