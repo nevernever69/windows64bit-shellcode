@@ -6,12 +6,6 @@
   nasm -f win64 {filename.asm}
   ld {filename.obj} -o {filename.exe}
 ```
-## Installation
-```bash
-  npm install my-project
-  cd my-project
-```
-    
 ### Note
 
 - reverseshell-w64.asm
